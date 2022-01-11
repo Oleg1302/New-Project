@@ -1,0 +1,32 @@
+header {
+  background-color: #be6a6a;
+}
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 10px;
+}
+.block {
+  &__dsb {
+  }
+
+  &__fnz {
+  }
+}
+.block {
+}
+.block__dsb {
+}
+.block__fnz {
+}
+
+.red {
+  color: red;
+}
+@media (max-width: 767px) {
+  .red {
+    border: 0;
+  }
+}
